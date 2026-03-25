@@ -1,7 +1,4 @@
-//name: lara saleh abu asfour
-//student id number: 1221484
-//lecture section: 5
-//lab section: 9L
+//name: lara abu asfour
 
 package project;
 
